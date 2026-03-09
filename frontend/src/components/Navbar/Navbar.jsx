@@ -7,7 +7,8 @@ const Navbar = () => {
       <div>
         {/* <p className="text-[12px] pl-4 hover:font-bold">Menu</p> */}
         <div className="pl-4 text-[#2a2725]">
-          <AnimateBtn btnName="Menu" />
+          <AnimateBtn btnName="Menu" href="mailto:info@pixoranest.com" />
+
         </div>
       </div>
       <div className="bg-[#2a2725] rounded-full p-2">
